@@ -1,0 +1,20 @@
+h1{
+    color:orange;
+}
+h5{
+    color:black;
+}
+
+.number_1{
+    float:right;
+}
+.number_2{
+    float:right;
+}
+.paragraph_1{
+    margin-top: 0em;
+}
+body{
+    display:flex;
+    justify-content: space-between;
+}

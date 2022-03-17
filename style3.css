@@ -1,0 +1,23 @@
+.account{
+    text-align: center;
+}
+.lname {
+   position:relative;
+   left:300px;
+   bottom:60px;
+}
+#lname{
+    position:relative;
+    left:300px;
+    bottom:60px;
+}
+.pswd{
+    position:relative;
+    left:300px;
+    bottom:60px;
+}
+
+
+#email{
+    width:50%;
+}

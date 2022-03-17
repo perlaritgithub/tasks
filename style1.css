@@ -1,0 +1,57 @@
+ body{
+     margin:auto;
+     padding:0px;
+
+ }
+ .header{
+
+	background-color:pink;
+}
+.head_1{
+    text-align: center;
+    font-size: 30px;
+}
+img{
+    width:50px;
+    margin-bottom: 0em;
+}
+ a img{
+     float:right;
+ }
+ .form{
+     background-color:lightgray;
+     margin:center;
+     text-align: center;
+
+ }
+ label,input{
+     margin:15px auto;
+ }
+ .image{
+     position: relative;
+     right:180px;
+     top:100px;
+     border-radius: 60%;
+ }
+ .des{
+    position: relative;
+    bottom:80px;
+    right:30px;
+ }
+ .submit{
+     position: relative;
+     left:10px;
+ }
+ .text{
+    position: relative;
+    right:30px;
+ }
+ 
+ 
+ @media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+ 
+
